@@ -1,5 +1,6 @@
 {
   "type": "module",
+  "packageManager": "pnpm@10.28.0",
   "scripts": {
     "d": "next dev",
     "b": "next build",
