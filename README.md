@@ -2,6 +2,6 @@
 
 features:
 
-- next@15
+- next@16
 - shadcn@canary
 - tailwindcss@4
